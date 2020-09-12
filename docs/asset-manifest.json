@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.26908655.chunk.css",
-    "main.js": "/static/js/main.dce6f28d.chunk.js",
-    "main.js.map": "/static/js/main.dce6f28d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
-    "static/js/2.33b77187.chunk.js": "/static/js/2.33b77187.chunk.js",
-    "static/js/2.33b77187.chunk.js.map": "/static/js/2.33b77187.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2e740b99106bf2c4f14f5365817f0892.js": "/precache-manifest.2e740b99106bf2c4f14f5365817f0892.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.26908655.chunk.css.map": "/static/css/main.26908655.chunk.css.map",
-    "static/js/2.33b77187.chunk.js.LICENSE.txt": "/static/js/2.33b77187.chunk.js.LICENSE.txt",
-    "static/js/main.dce6f28d.chunk.js.LICENSE.txt": "/static/js/main.dce6f28d.chunk.js.LICENSE.txt"
+    "main.css": "/phoenix-react/static/css/main.26908655.chunk.css",
+    "main.js": "/phoenix-react/static/js/main.dce6f28d.chunk.js",
+    "main.js.map": "/phoenix-react/static/js/main.dce6f28d.chunk.js.map",
+    "runtime-main.js": "/phoenix-react/static/js/runtime-main.ce2b2f5c.js",
+    "runtime-main.js.map": "/phoenix-react/static/js/runtime-main.ce2b2f5c.js.map",
+    "static/js/2.33b77187.chunk.js": "/phoenix-react/static/js/2.33b77187.chunk.js",
+    "static/js/2.33b77187.chunk.js.map": "/phoenix-react/static/js/2.33b77187.chunk.js.map",
+    "index.html": "/phoenix-react/index.html",
+    "precache-manifest.62ef7b39bcd1b3c722fa63db0ed4e977.js": "/phoenix-react/precache-manifest.62ef7b39bcd1b3c722fa63db0ed4e977.js",
+    "service-worker.js": "/phoenix-react/service-worker.js",
+    "static/css/main.26908655.chunk.css.map": "/phoenix-react/static/css/main.26908655.chunk.css.map",
+    "static/js/2.33b77187.chunk.js.LICENSE.txt": "/phoenix-react/static/js/2.33b77187.chunk.js.LICENSE.txt",
+    "static/js/main.dce6f28d.chunk.js.LICENSE.txt": "/phoenix-react/static/js/main.dce6f28d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/runtime-main.ce2b2f5c.js",
     "static/js/2.33b77187.chunk.js",
     "static/css/main.26908655.chunk.css",
     "static/js/main.dce6f28d.chunk.js"
